@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+li span {
+  padding: 8px;
+}
+
+.high {
+  color: red; 
+}
+
+.low {
+  color: green; 
+}
+
+.item-name {
+  color: white;
+}
